@@ -90,7 +90,7 @@ int main() {
 ```
 ## OUTPUT:
 
-![image](https://github.com/user-attachments/assets/73dd110a-84bb-42ea-9234-1b3514673d31)
+![image](https://github.com/user-attachments/assets/6977adc6-0435-4f47-9832-dcd1a6d80c9c)
 
 
 
