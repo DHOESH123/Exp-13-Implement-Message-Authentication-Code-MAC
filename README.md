@@ -90,7 +90,8 @@ int main() {
 ```
 ## OUTPUT:
 
-![cry exp13](https://github.com/user-attachments/assets/c961d078-4210-40d7-a328-d6d4092cc83e)
+![image](https://github.com/user-attachments/assets/73dd110a-84bb-42ea-9234-1b3514673d31)
+
 
 
 ## RESULT:
